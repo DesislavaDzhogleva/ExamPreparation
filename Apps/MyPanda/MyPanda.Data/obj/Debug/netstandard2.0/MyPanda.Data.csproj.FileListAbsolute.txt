@@ -1,0 +1,8 @@
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\bin\Debug\netstandard2.0\MyPanda.Data.deps.json
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\bin\Debug\netstandard2.0\MyPanda.Data.dll
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\obj\Debug\netstandard2.0\MyPanda.Data.AssemblyInfoInputs.cache
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\obj\Debug\netstandard2.0\MyPanda.Data.AssemblyInfo.cs
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\bin\Debug\netstandard2.0\MyPanda.Data.pdb
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\obj\Debug\netstandard2.0\MyPanda.Data.csprojAssemblyReference.cache
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\obj\Debug\netstandard2.0\MyPanda.Data.dll
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\Apps\MyPanda\MyPanda.Data\obj\Debug\netstandard2.0\MyPanda.Data.pdb
