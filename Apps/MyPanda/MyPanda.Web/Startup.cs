@@ -1,4 +1,6 @@
 ﻿using MyPanda.Data;
+using MyPanda.Services;
+using MyPanda.Services.Interfaces;
 using SIS.MvcFramework;
 using SIS.MvcFramework.DependencyContainer;
 using SIS.MvcFramework.Routing;
@@ -20,6 +22,8 @@ namespace MyPanda.Web
 
         public void ConfigureServices(IServiceProvider serviceProvider)
         {
+            //why do we do this
+            serviceProvider.Add<IUsersService, UsersService>();
         }
     }
 }
