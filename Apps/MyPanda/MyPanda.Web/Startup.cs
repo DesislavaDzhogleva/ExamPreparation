@@ -24,6 +24,8 @@ namespace MyPanda.Web
         {
             //why do we do this
             serviceProvider.Add<IUsersService, UsersService>();
+            serviceProvider.Add<IPackagesService, PackagesService>();
+            serviceProvider.Add<IReceiptService, ReceiptService>();
         }
     }
 }

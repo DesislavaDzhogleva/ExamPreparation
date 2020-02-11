@@ -33,6 +33,12 @@ namespace MyPanda.Services
             return user.Id;
         }
 
+        public IEnumerable<string> GetUsernames()
+        {
+            var usernames = this.db.Users.Select(x => x.Username).ToList();
+            return usernames;
+        }
+
         public User GetUserOrNull(string username, string password)
         {
             var passwordHash = this.HashPassword(password);

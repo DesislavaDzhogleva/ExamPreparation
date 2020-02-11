@@ -10,6 +10,8 @@ namespace MyPanda.Services.Interfaces
         string CreateUser(string username, string email, string password);
 
         User GetUserOrNull(string username, string password);
+
+        IEnumerable<string> GetUsernames();
     }
 
 

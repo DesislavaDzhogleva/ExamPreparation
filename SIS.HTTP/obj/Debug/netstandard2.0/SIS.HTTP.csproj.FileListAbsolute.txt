@@ -1,8 +1,8 @@
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
-C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
 C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\desid\OneDrive\Работен плот\ExamPreparation2019\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
